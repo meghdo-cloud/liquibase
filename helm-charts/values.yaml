@@ -1,7 +1,7 @@
 image:
   liquibase:
     repository: liquibase/liquibase
-    tag: latest
+    tag: 4.23
     pullPolicy: IfNotPresent
   cloudSqlProxy:
     repository: gcr.io/cloud-sql-connectors/cloud-sql-proxy
